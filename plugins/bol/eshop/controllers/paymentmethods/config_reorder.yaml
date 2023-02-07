@@ -1,4 +1,0 @@
-title: PaymentMethods
-modelClass: Bol\Eshop\Models\PaymentMethod
-toolbar:
-    buttons: reorder_toolbar

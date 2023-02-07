@@ -1,4 +1,0 @@
-title: ShippingMethods
-modelClass: Bol\Eshop\Models\ShippingMethod
-toolbar:
-    buttons: reorder_toolbar
